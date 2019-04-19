@@ -1,0 +1,45 @@
+<svg id="Group_12" data-name="Group 12" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1440" height="1080" viewBox="0 0 1440 1080">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" y1="1" x2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="gray" stop-opacity="0.251"/>
+      <stop offset="0.54" stop-color="gray" stop-opacity="0.122"/>
+      <stop offset="1" stop-color="gray" stop-opacity="0.102"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" y1="1" x2="0.5" y2="0" xlink:href="#linear-gradient"/>
+  </defs>
+  <circle id="Ellipse_5" data-name="Ellipse 5" cx="1.06" cy="1.06" r="1.06" transform="translate(713.58 276.052)" fill="#fff" opacity="0.3"/>
+  <circle id="Ellipse_10" data-name="Ellipse 10" cx="1.06" cy="1.06" r="1.06" transform="translate(690.88 233.272)" fill="#fff" opacity="0.3"/>
+  <rect id="Rectangle_1" data-name="Rectangle 1" width="1440" height="1080" fill="#0f1420"/>
+  <g id="Group_9" data-name="Group 9" transform="translate(351 255.95)" opacity="0.7">
+    <circle id="Ellipse_15" data-name="Ellipse 15" cx="13.36" cy="13.36" r="13.36" transform="translate(697.07 589.91)" fill="url(#linear-gradient)"/>
+  </g>
+  <g id="Group_10" data-name="Group 10" transform="translate(351 255.95)" opacity="0.7">
+    <circle id="Ellipse_17" data-name="Ellipse 17" cx="14.57" cy="14.57" r="14.57" transform="translate(757.04 717.61)" fill="url(#linear-gradient-2)"/>
+  </g>
+  <g id="Group_11" data-name="Group 11" transform="translate(221 255.95)" opacity="0.7">
+    <circle id="Ellipse_19" data-name="Ellipse 19" cx="16.01" cy="16.01" r="16.01" transform="translate(132.16 633.14)" fill="url(#linear-gradient)"/>
+  </g>
+  <path id="Path_27" data-name="Path 27" d="M843.45,82.54a45.19,45.19,0,0,0-6.19,3.26,9.8,9.8,0,0,0-3.31,3,3.9,3.9,0,0,0-.08,4.23c1,1.38,3,1.6,4.67,1.69a8.86,8.86,0,0,0,8.48-2.8l3.57-3.24c1.24-1.12,2.6-2.67,2.06-4.25a3.587,3.587,0,0,0-3-2A12.59,12.59,0,0,0,840.72,84" transform="translate(378.59 42)" fill="#f55f44" opacity="0.25"/>
+  <circle id="Ellipse_22" data-name="Ellipse 22" cx="8.01" cy="8.01" r="8.01" transform="translate(1078.55 294.41)" fill="#f55f44" opacity="0.25"/>
+  <path id="Path_28" data-name="Path 28" d="M886.81,83.86h0a10.93,10.93,0,1,1-12.37-11h0a41.9,41.9,0,0,1,12.37,11Z" transform="translate(-492.41 42)" fill="#f55f44" opacity="0.25"/>
+  <path id="Path_29" data-name="Path 29" d="M887.61,132.78A41.41,41.41,0,0,1,856.3,150.3c-.05-.57-.08-1.15-.08-1.73a19.67,19.67,0,0,1,31.39-15.79Z" transform="translate(-700.41 798)" fill="#f55f44" opacity="0.25"/>
+  <circle id="Ellipse_23" data-name="Ellipse 23" cx="5.1" cy="5.1" r="5.1" transform="translate(1068.71 595.57)" fill="#535461" opacity="0.25"/>
+  <circle id="Ellipse_24" data-name="Ellipse 24" cx="5.1" cy="5.1" r="5.1" transform="translate(103.71 835.57)" fill="#535461" opacity="0.25"/>
+  <circle id="Ellipse_25" data-name="Ellipse 25" cx="5.1" cy="5.1" r="5.1" transform="translate(1265.71 758.57)" fill="#535461" opacity="0.25"/>
+  <circle id="Ellipse_26" data-name="Ellipse 26" cx="5.1" cy="5.1" r="5.1" transform="translate(364.63 456.91)" fill="#535461" opacity="0.25"/>
+  <circle id="Ellipse_27" data-name="Ellipse 27" cx="5.1" cy="5.1" r="5.1" transform="translate(347.88 339.65)" fill="#535461" opacity="0.25"/>
+  <circle id="Ellipse_28" data-name="Ellipse 28" cx="5.1" cy="5.1" r="5.1" transform="translate(188.67 737.98)" fill="#535461" opacity="0.25"/>
+  <path id="Path_30" data-name="Path 30" d="M849.18,387.12h-4.54v-4.53h-1.85v4.53h-4.54v1.86h4.54v4.53h1.85v-4.53h4.54Z" transform="translate(351 255.95)" fill="#2eff58" stroke="#2eff58" stroke-width="1" opacity="0.25"/>
+  <path id="Path_31" data-name="Path 31" d="M925.18,230.12h-4.54v-4.53h-1.85v4.53h-4.54v1.86h4.54v4.53h1.85v-4.53h4.54Z" transform="translate(351 255.95)" fill="#2eff58" stroke="#2eff58" stroke-width="1" opacity="0.25"/>
+  <path id="Path_32" data-name="Path 32" d="M601.55,142.41h-4.54v-4.54h-1.85v4.54h-4.54v1.85h4.54v4.54h1.85v-4.54h4.54Z" transform="translate(351 255.95)" fill="#2eff58" stroke="#2eff58" stroke-width="1" opacity="0.25"/>
+  <path id="Path_33" data-name="Path 33" d="M799.65,361.63h-4.54V357.1h-1.85v4.53h-4.53v1.86h4.53v4.53h1.85v-4.53h4.54Z" transform="translate(351 255.95)" fill="#2eff58" stroke="#2eff58" stroke-width="1" opacity="0.25"/>
+  <path id="Path_34" data-name="Path 34" d="M633.59,512.39h-4.53v-4.53h-1.85v4.53h-4.54v1.86h4.54v4.53h1.85v-4.53h4.53Z" transform="translate(351 255.95)" fill="#2eff58" stroke="#2eff58" stroke-width="1" opacity="0.25"/>
+  <path id="Path_35" data-name="Path 35" d="M168.93,201.4h-4.54v-4.53h-1.85v4.53H158v1.85h4.54v4.54h1.85v-4.54h4.54Z" transform="translate(81 195.95)" fill="#2eff58" stroke="#2eff58" stroke-width="1" opacity="0.25"/>
+  <path id="Path_36" data-name="Path 36" d="M10.93,260.4H6.39v-4.53H4.54v4.53H0v1.85H4.54v4.54H6.39v-4.54h4.54Z" transform="translate(81 195.95)" fill="#2eff58" stroke="#2eff58" stroke-width="1" opacity="0.25"/>
+  <path id="Path_37" data-name="Path 37" d="M231.56,446.12h-4.54v-4.54h-1.85v4.54h-4.53v1.85h4.53v4.54h1.85v-4.54h4.54Z" transform="translate(221 355.95)" fill="#2eff58" stroke="#2eff58" stroke-width="1" opacity="0.25"/>
+  <path id="Path_40" data-name="Path 40" d="M384.8,413.33a21.518,21.518,0,0,0-3,1.55,4.67,4.67,0,0,0-1.58,1.41,1.86,1.86,0,0,0,0,2,2.83,2.83,0,0,0,2.22.8,4.22,4.22,0,0,0,4-1.33l1.7-1.54c.59-.54,1.24-1.27,1-2a1.79,1.79,0,0,0-1.44-1,6,6,0,0,0-4.25.75" transform="translate(83.59 291)" fill="#f55f44" opacity="0.25"/>
+  <circle id="Ellipse_30" data-name="Ellipse 30" cx="1.04" cy="1.04" r="1.04" transform="translate(460.25 723.63)" fill="#f55f44" opacity="0.1"/>
+  <circle id="Ellipse_31" data-name="Ellipse 31" cx="3.82" cy="3.82" r="3.82" transform="translate(1261.63 410.26)" fill="#f55f44" opacity="0.25"/>
+  <path id="Path_41" data-name="Path 41" d="M405.45,414h0a5.2,5.2,0,1,1-5.89-5.22h0a20,20,0,0,1,5.89,5.22Z" transform="translate(-249.41 176)" fill="#f55f44" opacity="0.25"/>
+  <path id="Path_42" data-name="Path 42" d="M405.84,437.26a19.72,19.72,0,0,1-14.91,8.35c0-.27,0-.55,0-.83a9.37,9.37,0,0,1,15-7.52Z" transform="translate(-164.41 -205)" fill="#f55f44" opacity="0.1"/>
+</svg>

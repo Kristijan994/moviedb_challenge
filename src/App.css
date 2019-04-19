@@ -1,0 +1,129 @@
+* {
+  margin:0;
+  padding:0;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  /* max-width: 415px !important; */
+}
+
+.offset-lr-5 {
+  margin:0 5px !important;
+}
+
+/* Flexbox */
+.flex-2x {
+  display: -ms-flexbox;
+  display: flex;
+}
+.flex-1 {
+  order:1;
+}
+.flex-2 {
+  order: 2;
+}
+
+.fadeGrey {
+  opacity: .15;
+}
+
+h3.mvdb {
+  color:#00D373;
+}
+
+/* Theme CSS */
+div.header {
+  background: #0F1420 !important;
+  color:#fff;
+  padding:15px !important;
+}
+.Logo {
+  max-width: 50px;
+}
+#search {
+  min-width: 100%;
+  padding:10px 15px;
+  border:1px solid transparent;
+  background: rgba(255, 255, 255, .01);
+  color:#fff !important;
+}
+#search::placeholder {
+  color: rgba(255, 255, 255, .30);
+}
+input:focus {
+  outline: 0 !important;
+  box-shadow: 0px 3px 15px rgba(0,0,0,.07);
+  border:#f9f9f9;
+}
+
+div#root {
+  background-image: url('../src/assets/header-bg.svg');
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  min-height: 100vh;
+}
+
+::-webkit-scrollbar-track {
+  border-radius: 50px !important;
+}
+::-webkit-scrollbar-thumb {
+  background: rgba(255, 255, 255, .15) !important;
+  border-radius: 50px !important;
+}
+div.App::-webkit-scrollbar {
+  width: 10px !important;
+}
+div.App {
+  min-width: 480px !important;
+  max-width: 480px !important;
+  min-height: 100vh !important;
+  max-height: 100vh !important;
+  margin:auto !important;
+  overflow-y: scroll !important;
+  background: rgba(255, 255, 255, .005) !important;
+  box-shadow: 0px 0px 5px rgba(255, 255, 255, .01);
+  border-left:5px solid rgba(255, 255, 255, .01);
+  border-right:5px solid rgba(255, 255, 255, .01);
+}
+div.movies-holder {
+  padding:20px 20px !important;
+  transition:.35s !important;
+}
+div.movies-holder:hover {
+  transition:.35s !important;
+  background: #0F1420;
+}
+div.movie-right-details {
+  position: relative;
+  top:15px;
+  color:#fff;
+}
+
+div.movie-left-details,div.movie-right-details {
+  margin:15px 3px !important;
+}
+.poster {
+  border-radius: 5px;
+  min-height: 200px !important;
+  min-width: 200px !important;
+  margin:35px 15px !important;
+}
+.overview {
+  opacity: .80;
+  font-size:15px !important;
+}
+.view-btn {
+  font-size:15px !important;
+
+  background: #4f38b6 !important;
+  color:#fff;
+  border-radius: 50px;
+  box-shadow: none !important;
+  outline: 0 !important;
+  border:0 !important;
+  padding:10px 20px !important;
+  font-weight: 700 !important;
+  text-shadow:0px 0px 5px rgba(0,0,0,.25);
+}
